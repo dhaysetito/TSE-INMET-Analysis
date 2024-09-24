@@ -41,9 +41,8 @@ O objetivo do projeto é aplicar técnicas de manipulação de dados, visualiza�
 
 ```
 ├── datasets/              # Diretório contendo os arquivos CSV utilizados
-├── analysis/              # Resultados da análise e arquivos do Excel
+├── analises/              # Resultados da análise e arquivos do Excel
 ├── README.md              # Este arquivo
-├── .gitignore             # Arquivos a serem ignorados pelo Git
 └── LICENSE                # Licença do projeto (MIT)
 ```
 
