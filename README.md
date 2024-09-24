@@ -3,7 +3,7 @@
 ## Descrição
 Este projeto realiza a análise de dois conjuntos de dados públicos utilizando o Microsoft Excel, com foco nas tarefas de carga, transformação e análise de dados. Os datasets analisados são:
 
-1. **Perfil do Eleitorado - Eleições Municipais 2024 (TSE)**: Comparação entre os perfis de eleitores de dois estados brasileiros.
+1. **Perfil do Eleitorado - Eleições Municipais 2024 (TSE)**: Comparação entre os perfis de eleitores de dois estados brasileiros, RJ e SP.
 2. **Dados Meteorológicos (INMET)**: Comparação dos dados de 2022 e 2023 da estação A807.
 
 O objetivo do projeto é aplicar técnicas de manipulação de dados, visualização gráfica e geração de insights com base em dados reais, desenvolvendo habilidades de análise com MS-Excel.
