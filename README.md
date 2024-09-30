@@ -61,6 +61,8 @@ O objetivo do projeto é aplicar técnicas de manipulação de dados, visualiza�
 2. Carregue os arquivos CSV no Excel utilizando a função "Obter Dados".
 3. Siga as etapas descritas para eliminar colunas, filtrar dados e realizar as análises.
 
+> Observação: Não foi possível carregar o dataset modificado (após a remoção das linhas e colunas pertinentes ao trabalho) do eleitorado, devido ao grande tamanho do mesmo.
+
 ## Contribuição
 Sinta-se à vontade para contribuir com sugestões, melhorias ou correções. Para colaborar:
 - Faça um fork deste repositório.
