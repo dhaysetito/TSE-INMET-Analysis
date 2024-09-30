@@ -62,7 +62,8 @@ O objetivo do projeto é aplicar técnicas de manipulação de dados, visualiza�
 3. Siga as etapas descritas para eliminar colunas, filtrar dados e realizar as análises.
 
 > Observação 1: Não foi possível carregar o dataset modificado (após a remoção das linhas e colunas pertinentes ao trabalho) do eleitorado, devido ao grande tamanho do mesmo.
-> Observação 2: [Link para planilha do Excel - Tratramento Dados Meteorológicos](https://docs.google.com/spreadsheets/d/12yxkIR3oSAmJSG3R_kwqa-2_15iYjkzB/edit?usp=sharing&ouid=111488868475156613940&rtpof=true&sd=true)
+
+> Observação 2: [Link para planilha do Excel - Tratamento Dados Meteorológicos](https://docs.google.com/spreadsheets/d/12yxkIR3oSAmJSG3R_kwqa-2_15iYjkzB/edit?usp=sharing&ouid=111488868475156613940&rtpof=true&sd=true)
 
 ## Contribuição
 Sinta-se à vontade para contribuir com sugestões, melhorias ou correções. Para colaborar:
