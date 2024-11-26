@@ -3,7 +3,7 @@
 ## Descrição
 Este projeto realiza a análise de dois conjuntos de dados públicos utilizando o Microsoft Excel, com foco nas tarefas de carga, transformação e análise de dados. Os datasets analisados são:
 
-1. **Perfil do Eleitorado - Eleições Municipais 2024 (TSE)**: Comparação entre os perfis de eleitores de dois estados brasileiros, RJ e SP.
+1. **Perfil do Eleitorado - Eleições Municipais 2024 (TSE)**: Comparação entre os perfis de eleitores de dois estados brasileiros, RJ e SP. Na analise em R foi feita, RJ e BA.
 2. **Dados Meteorológicos (INMET)**: Comparação dos dados de 2022 e 2023 da estação A807.
 
 O objetivo do projeto é aplicar técnicas de manipulação de dados, visualização gráfica e geração de insights com base em dados reais, desenvolvendo habilidades de análise com MS-Excel.
@@ -42,6 +42,7 @@ O objetivo do projeto é aplicar técnicas de manipulação de dados, visualiza�
 ```
 ├── datasets/              # Diretório contendo os arquivos CSV utilizados
 ├── analises/              # Resultados da análise e arquivos do Excel
+├── analises-R/            # Analises em R
 ├── README.md              # Este arquivo
 └── LICENSE                # Licença do projeto (MIT)
 ```
@@ -50,12 +51,13 @@ O objetivo do projeto é aplicar técnicas de manipulação de dados, visualiza�
 
 - **Microsoft Excel** (ou software compatível)
 - Conhecimento básico de manipulação de planilhas e funções estatísticas
-
+- R e RStudio
 ## Execução
 
 1. Faça o download dos datasets:
    - [Perfil do Eleitorado 2024 - SP](https://cdn.tse.jus.br/estatistica/sead/odsele/perfil_eleitor_secao/perfil_eleitor_secao_ATUAL_SP.zip)
-   - [Perfil do Eleitorado 2024 - RJ](https://cdn.tse.jus.br/estatistica/sead/odsele/perfil_eleitor_secao/perfil_eleitor_secao_ATUAL_RJ.zip).
+   - [Perfil do Eleitorado 2024 - RJ](https://cdn.tse.jus.br/estatistica/sead/odsele/perfil_eleitor_secao/perfil_eleitor_secao_ATUAL_RJ.zip)
+   - [Perfil do Eleitorado 2024 - BA](https://cdn.tse.jus.br/estatistica/sead/odsele/perfil_eleitor_secao/perfil_eleitor_secao_ATUAL_BA.zip).
    - [Dados Meteorológicos INMET - 2022](https://portal.inmet.gov.br/uploads/dadoshistoricos/2022.zip).
    - [Dados Meteorológicos INMET - 2022](https://portal.inmet.gov.br/uploads/dadoshistoricos/2023.zip).
 2. Carregue os arquivos CSV no Excel utilizando a função "Obter Dados".
